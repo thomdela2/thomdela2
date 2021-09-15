@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Thomas Delahaye
-- 👀 I’m interested in optimizing customer experiences
-- 🌱 I’m currently learning headless Craft CMS applications
-- 💞️ I’m looking to collaborate on SaaS 
-- 📫 Contact me through LinkedIn https://www.linkedin.com/in/thomasdelahayeboldagencybe/ 
-
-
+👋 Hi, I’m Thomas Delahaye
+💸 Founder of @passionfruit.be
+👀 I’m interested in optimizing customer experiences within the retail market
+🌱 I’m currently learning & working with headless CMS applications
+📬 Contact me through LinkedIn https://www.linkedin.com/in/thomasdelahayeboldagencybe/ 
