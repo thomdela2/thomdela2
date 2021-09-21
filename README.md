@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Thomas Delahaye
 - 💸 Founder of @passionfruit.be
-- 👀 I’m interested in optimizing customer experiences within the retail market
+- 👀 Always looking for opportunities to optimize customer experiences in retail
 - 🌱 I’m currently learning & working with headless CMS applications
-- 📬 Contact me through LinkedIn https://www.linkedin.com/in/thomasdelahayeboldagencybe/ 
+- 📬 For collaborations, conact me through LinkedIn https://www.linkedin.com/in/thomdela/
